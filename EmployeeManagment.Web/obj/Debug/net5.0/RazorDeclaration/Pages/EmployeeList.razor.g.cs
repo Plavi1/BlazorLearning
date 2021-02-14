@@ -82,6 +82,20 @@ using EmployeeManagment.Web.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "C:\Users\pc\Desktop\Blazor\BlazorLearning\EmployeeManagment.Web\_Imports.razor"
+using PragimTech.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "C:\Users\pc\Desktop\Blazor\BlazorLearning\EmployeeManagment.Web\_Imports.razor"
+using EmployeeManagment.Models;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class EmployeeList : EmployeeListBase
     {
